@@ -1,0 +1,27 @@
+button{
+    background-color: blue;
+    margin-left: 410px;
+    border-radius: 100px;
+}
+helllo{
+    background-color: beige;
+}
+div{
+width:900px;
+background-color: beige;
+margin-left: 100px;
+width:900px;
+border: 3px solid black;
+
+}
+
+p{
+text-align: center;
+color: gray;
+}
+h1{
+    text-align: center;
+}
+image{
+align-items: center;
+}
